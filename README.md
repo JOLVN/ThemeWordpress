@@ -1,1 +1,1 @@
-# ThemeWordpress
+# ThemeTPWordpress
